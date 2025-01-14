@@ -1,0 +1,42 @@
+{
+    "name": "Burro",
+    "symbol": "BURRO",
+    "description": "Burro is a meme coin dedicated to supporting burro conservation efforts worldwide. A 1% fee on all transactions is directed to our conservation wallet to fund projects and initiatives for burro protection.",
+    "image": "https://james-alchemy.github.io/Burro/burro_coin.jpg",
+    "seller_fee_basis_points": 100,
+    "attributes": [
+      {
+        "trait_type": "Purpose",
+        "value": "Conservation"
+      },
+      {
+        "trait_type": "Blockchain",
+        "value": "Solana"
+      },
+      {
+        "trait_type": "Fee",
+        "value": 100
+      }
+    ],
+    "collection": {
+      "name": " ",
+      "family": ""
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "burro_coin.jpg",
+          "type": "image/jpg"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "YourWalletPublicKey",
+          "share": 100
+        }
+      ]
+    }
+} 
+  
+
